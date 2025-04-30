@@ -2,6 +2,9 @@
 
 This project enables real-time video streaming from an ESP32-CAM module to a WebSocket server. The ESP32-CAM captures images from its camera and sends them as binary data over WebSockets, making it suitable for applications like surveillance systems, remote monitoring, or IoT-based camera projects.
 
+### This project is prequiste for the [ESP32CAM-VIDEO-RECIVE-AND-SHOW-IN-ST7789-DISPLAY](https://github.com/PolarisArm/ESP32CAM-VIDEO-RECIVE-AND-SHOW-IN-ST7789-DISPLAY.git)
+
+
 ## Features
 
 - Real-time video streaming at ~5 FPS
